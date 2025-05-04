@@ -1,2 +1,3 @@
 # COLLEGE
-to run open terminal 
+to run open terminal write command .\rpg.exe
+
